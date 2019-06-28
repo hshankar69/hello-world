@@ -1,3 +1,3 @@
 # hello-world
 Learn GitHub
-Testing  edits and  commits
+Testing  edits and  commits for changes
